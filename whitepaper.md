@@ -64,3 +64,13 @@
 
 ## 4.2 Where metrics fall apart
  --cautionary tale for using metrics--
+ 
+ ## 4.3 Diversity and Inclusion Report
+  --Daniel's work--
+ 
+ ## 4.4 Ongoing Initiatives
+  --health initiatives outside of CHAOSS--
+ 
+ 
+ # 5. Our Own Metrics
+ --CHAOSS metrics applied to the CHAOSS community--
