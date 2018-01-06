@@ -1,6 +1,59 @@
 # __CHAOSS Whitepaper__
  --front matter--
 
+__CHAOSS Contributors:__
+
+First attempt at capturing who is involved.
+Sources of names are the Metrics and Software mailing lists and all CHAOSS repositories on GitHub.
+Names are listed in alphabetical order.
+
+Alberto Martín,
+Alberto Pérez García-Plaza,
+Alexander Serebrenik,
+Alvaro del Castillo,
+Augustina Ragwitz,
+Ben Lloyd Pearson,
+Ben Nickolls,
+Boris Baldassari,
+Brian Proffitt,
+Daniel Izquierdo,
+David A. Wheeler,
+Derek A. Howard,
+Don Marti,
+Emma Irwin,
+Fil Maj,
+Georg Link,
+Gil Yehuda,
+Harish Pillay,
+Henri Yandell
+Henrik Mitsch,
+Ildiko Vancsa,
+Jason Clark,
+Javier Luis Cánovas Izquierdo,
+Jeremiah Foster,
+Jesus M. Gonzalez-Barahona,
+Jonathan Lipps,
+Jordi Cabot,
+Kate Stewart,
+Kevin Lumbard,
+Lawrence Hecht,
+Luis Cañas-Díaz,
+Manrique Lopez,
+Matt Germonprez,
+Michael Downey,
+Neil Chue Hong,
+Nikki Stevens,
+Peter Monks,
+Rashmi Chitrakar,
+Raymond Paik,
+Rich Bodo,
+Santiago Dueñas,
+Sean Goggins,
+Shane Curcuru,
+Shilla Saebi,
+Thanh Ha,
+Tom Mens,
+Vicky Janicki
 
 # Executive Summary
  --key takeaways (contributions)--
