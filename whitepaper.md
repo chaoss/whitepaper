@@ -1,6 +1,16 @@
 # __CHAOSS Whitepaper__
  --front matter--
 
+Title: CHAOSS Whitepaper v1.0
+
+Editors: Georg Link and Matt Germonprez
+
+Release date: tbd
+
+Cute image on title page
+
+Logos: LF, CHAOSS, GrimoireLab, Cregit, GHData, Prospector (treat as sponsors)
+
 __CHAOSS Contributors:__
 
 First attempt at capturing who is involved.
@@ -58,6 +68,10 @@ Vicky Janicki
 # Executive Summary
  --key takeaways (contributions)--
 
+- 1 Paragraph on community health (start with conclusion)
+- 1 Paragraph with metrics and development history
+- 1 Paragraph with software and development history
+- 1 Paragraph with use cases and future work
 
 # Table of Content
  --headings--
@@ -231,6 +245,14 @@ Availability of add-on products | Availability of 3rd party plug-ins, modules, u
 
 ## 4.1 Success story of using metrics for health
  --advertise for our work--
+
+### 4.1.1 Velocity
+One example for using metrics to understand community health is through the
+concept of velocity---level of activity and size of a community.
+Velocity does not constitute a new metric but shows how metrics can be
+combined and interpreted to inform community health.
+
+https://www.cncf.io/blog/2017/06/05/30-highest-velocity-open-source-projects/
 
 ## 4.2 Where metrics fall apart
  --cautionary tale for using metrics--
