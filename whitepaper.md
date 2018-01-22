@@ -74,17 +74,126 @@ Vicky Janicki
 - 1 Paragraph with use cases and future work
 
 # Table of Content
- --headings--
+ --headings (pdf: with page numbers)--
 
 
 # 1. CHAOSS Background
 
+The Linux Foundation Community Health Analytics Open Source Software (CHAOSS)
+community was created in response to current trends in the open source ecosystem.
 
-## 1.2 Structure of CHAOSS community
+## 1.1 Current Status of the Open Source Ecosystem
+
+Open source ecosystem is growing. More lines of code are licensed open source
+every year. More developers participate in open source every year.
+More companies engaged open source every year.
+
+Open source is becoming professional. Organizations are increasingly relying on
+open source software for their internal software development and innovation.
+Open source enables rapid innovation.
+
+Open source is becoming the default for new software. Internally developed
+software is frequently released as open source to enhance adoption and
+involve users in the development process.
+
+Open source is becoming a model for shared standards development. New
+technologies are innovated within open source to ensure equal access
+for everyone. Organizations benefit from engaging in open source standards
+development by learning from each other and helping the standard align with
+their own practices.
+
+### 1.1.1 Stakeholders and Their Pain Points
+
+The four main stakeholders in open source---members, communities, companies,
+and foundations--- suffer from different pain points.
+
+#### 1.1.1.1 Open Source Members
+
+Open source members can be volunteers or be employed to work
+on specific open source projects.
+
+Open source members face the following issues:
+
+  - large workload, sense of duty, burnout
+  - don't know where to put efforts
+      - within their own projects
+      - or when looking for a new project
+  - don't get paid, unless employed
+  - don't see the impact they are making (needed for performance evaluations)
+  - ...
+
+#### 1.1.1.2 Open Source Communities
+
+Open source communities are the place where conversation around specific
+open source projects occur, including development activity and support.
+
+Open source communities face the following issues:
+
+  - attract new members and organizations
+  - ensure consistent quality
+  - reward valuable members
+  - ...
+
+#### 1.1.1.3 Open Source Companies
+
+An open source company is any company that engages in open source.
+Engagement include using open source internally,
+providing services for open source software,
+sending employees to participate in open source communities,
+and sponsoring open source communities.
+
+Open source companies face the following issues:
+  - which open source software to engage with ?
+  - communicate the impact the organization has on the community
+  - determine the value derived from engaging with open source
+  - evaluate the work of their employees within open source
+  - ...
+
+#### 1.1.1.4 Open Source Foundations
+
+Open source foundations provide stability for open source communities, through
+legal advice, managing assets, hosting infrastructure, and organizing events.
+
+Open source foundations face the following issues:
+  - identifying and responding to community needs
+  - evaluating the impact of their work
+  - promoting communities
+  - ...
+
+## 1.2 History of CHAOSS community
+
+TODO: create image with time-line and events
+
+  - February 2017 - Open Source Leadership Summit unconference on community health
+  - September 2017 - Launch at Open Source Summit North America
+      - Keynote
+      - Presentation
+      - Birds-of-a-feather
+      - Workshop
+  - October 2017 - Open Source Summit Europe
+  - February 2018 - CHAOSScon + GrimoireCon Europe 2018 at FOSDEM by Bitergia
+  - March 2018 - Open Source Leadership Summit
+      - Several talks: TBA
+
+## 1.3 Structure of CHAOSS community
  --committees, working groups, meetings,
 
-## 1.3 History of CHAOSS community
- --content of talk at OSLS2018--
+
+
+### 1.3.1 Software Committee
+Goal: ...
+
+Ongoing Projects: ...
+
+Communication Channels: ...
+
+### 1.3.2 Metric Committee
+Goal: ...
+
+Ongoing Projects: ...
+
+Communication Channels: ...
+
 
 ## 1.4 CHAOSScon
  --Goal and purpose of CHAOSScon--
