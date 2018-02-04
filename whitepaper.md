@@ -375,3 +375,14 @@ https://www.cncf.io/blog/2017/06/05/30-highest-velocity-open-source-projects/
 
 # 5. Our Own Metrics
  --CHAOSS metrics applied to the CHAOSS community--
+
+# 6. FAQ
+
+## 6.1 How do the Metrics help me understand whether an open source project is healthy?
+CHAOSS provides standardized metrics that uniformly generate information about open source projects. You can use these metrics to see changes in your project that might indicate changes in project health. You can also use these metrics to compare your project to similiar projects. We will not offer an opinion about the health of any project but provide objective measures that can help you make an informed decision.
+
+## 6.2 Will you create a project health index?
+No, open source projects work very differently and we believe that a single index will not do this diversity justice. Our approach, rather, is to provide a collection of standardized metrics that can inform your personal opinion about project health.
+
+## 6.3 What do you mean with 'implementation-agnostic metrics'?
+Our goal is to define metrics independent of a specific implementation. 
