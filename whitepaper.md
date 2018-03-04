@@ -365,6 +365,11 @@ https://www.cncf.io/blog/2017/06/05/30-highest-velocity-open-source-projects/
 
 ## 4.2 Where metrics fall apart
  --cautionary tale for using metrics--
+ People gaming metrics
+ Metrics used for marketing purposes
+ Too much focus on code contributions
+ Using metrics to make comparisons between very different open source projects (e.g. with different maturity-level, industry, culture, etc.)
+ Ignoring non-metrics
 
 ## 4.3 Diversity and Inclusion Report
   --Daniel's work--
